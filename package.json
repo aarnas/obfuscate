@@ -1,0 +1,23 @@
+{
+  "name": "obfuscate-365",
+  "version": "1.0.1",
+  "description": "Obfuscate things",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarnas/obfuscate.git"
+  },
+  "keywords": [
+    "obfuscate"
+  ],
+  "author": "aarnas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarnas/obfuscate/issues"
+  },
+  "homepage": "https://github.com/aarnas/obfuscate#readme"
+}
